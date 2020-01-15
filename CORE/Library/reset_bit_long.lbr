@@ -1,0 +1,11 @@
+{
+	"version":1,
+	"Folder":"Битовые операции",
+	"Name":"сбросить бит n (long)",
+	"Short name": "сбр бит(l)",
+	"Input vars":[{"type":"long","name":"inp"},{"type":"short","name":"n"}],
+	"Result":"long",
+	"Prototype":"long reset_bit_long(long inp,short n);",
+	"Function name":"reset_bit_long",
+	"Body":["long reset_bit_long(long inp,short n){if(n<0) n=0;if(n>31) n=31;return inp&(~(unsigned long)(1<<n));}"]
+}

@@ -1,0 +1,11 @@
+{
+	"version": 1,
+	"Folder": "Арифметика",
+	"Name": "абсолютное значение (long)",
+	"Short name": "abs(l)",
+	"Input vars": [{"type": "long","name": "a"}],
+	"Result": "long",
+	"Prototype": "long abs_long(long a);",
+	"Function name": "abs_long",
+	"Body": ["long abs_long(long a){return labs(a);}"]
+}

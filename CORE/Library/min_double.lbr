@@ -1,0 +1,11 @@
+{
+	"version": 1,
+	"Folder": "Арифметика",
+	"Name": "минимум (double)",
+	"Short name": "min(d)",
+	"Input vars": [{"type": "double","name": "a"},{"type": "double","name": "b"}],
+	"Result": "double",
+	"Prototype": "double min_double(double a, double b);",
+	"Function name": "min_double",
+	"Body": ["double min_double(double a, double b){if(a>=b) return b;return a;}"]
+}

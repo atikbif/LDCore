@@ -1,0 +1,11 @@
+{
+	"version": 1,
+	"Folder": "Арифметика",
+	"Name": "абсолютное значение (short)",
+	"Short name": "abs(s)",
+	"Input vars": [{"type": "short","name": "a"}],
+	"Result": "short",
+	"Prototype": "short abs_short(short a);",
+	"Function name": "abs_short",
+	"Body": ["short abs_short(short a){return abs(a);}"]
+}

@@ -1,0 +1,11 @@
+{
+	"version":1,
+	"Folder":"Битовые операции",
+	"Name":"старшее слово",
+	"Short name": "ст слово",
+	"Input vars":[{"type":"long","name":"a"}],
+	"Result":"short",
+	"Prototype":"short high_word(long a);",
+	"Function name":"high_word",
+	"Body":["short high_word(long a){return a>>16;}"]
+}

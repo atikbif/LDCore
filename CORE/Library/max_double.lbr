@@ -1,0 +1,11 @@
+{
+	"version": 1,
+	"Folder": "Арифметика",
+	"Name": "максимум (double)",
+	"Short name": "max(d)",
+	"Input vars": [{"type": "double","name": "a"},{"type": "double","name": "b"}],
+	"Result": "double",
+	"Prototype": "double max_double(double a, double b);",
+	"Function name": "max_double",
+	"Body": ["double max_double(double a, double b){if(a>=b) return a;return b;}"]
+}

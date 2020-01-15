@@ -1,0 +1,11 @@
+{
+	"version":1,
+	"Folder":"Битовые операции",
+	"Name":"младший байт",
+	"Short name": "мл байт",
+	"Input vars":[{"type":"short","name":"a"}],
+	"Result":"short",
+	"Prototype":"short low_byte(short a);",
+	"Function name":"low_byte",
+	"Body":["short low_byte(short a){return a&0xFF;}"]
+}

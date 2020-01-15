@@ -1,0 +1,11 @@
+{
+	"version":1,
+	"Folder":"Битовые операции",
+	"Name":"состояние бита n",
+	"Short name": "бит n",
+	"Input vars":[{"type":"long","name":"inp"},{"type":"short","name":"n"}],
+	"Result":"unsigned char",
+	"Prototype":"unsigned char bit_state(long inp,short n);",
+	"Function name":"bit_state",
+	"Body":["unsigned char bit_state(long inp,short n){if(n<0) n=0;if(n>31) n=31;if(inp & (1<<n)) return 1;return 0;}"]
+}

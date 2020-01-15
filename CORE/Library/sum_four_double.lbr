@@ -1,0 +1,11 @@
+{
+	"version":1,
+	"Folder":"Арифметика",
+	"Name":"сумма 4-х double",
+	"Short name": "сумма",
+	"Input vars":[{"type":"double","name":"a"},{"type":"double","name":"b"},{"type":"double","name":"c"},{"type":"double","name":"d"}],
+	"Result":"double",
+	"Prototype":"double sum_four_double(double inp1, double inp2, double inp3, double inp4);",
+	"Function name":"sum_four_double",
+	"Body":["double sum_four_double(double inp1, double inp2, double inp3, double inp4){return inp1+inp2+inp3+inp4;}"]
+}

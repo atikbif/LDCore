@@ -1,0 +1,11 @@
+{
+	"version": 1,
+	"Folder": "Конвертация",
+	"Name": "float в long побитово",
+	"Short name": "fl->long",
+	"Input vars": [{"type": "double","name": "inp"}],
+	"Result": "long",
+	"Prototype": "long fl_to_long(double inp);",
+	"Function name": "fl_to_long",
+	"Body": ["long fl_to_long(double inp){static union{float fl_val;long l_val;}dt;dt.fl_val = inp;return dt.l_val;}"]
+}

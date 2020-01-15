@@ -1,0 +1,2099 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+                              d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (exit)
+d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+                              d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+                              d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (__libc_init_array)
+d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memcpy-stub.o)
+                              ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o (memcpy)
+d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+                              d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (memset)
+d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_addsubdf3.o)
+                              ../CORE/MKU_CORE/Src/elements.o (__aeabi_dsub)
+d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_muldivdf3.o)
+                              ../CORE/MKU_CORE/Src/elements.o (__aeabi_dmul)
+d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_cmpdf2.o)
+                              ../CORE/MKU_CORE/Src/elements.o (__aeabi_dcmpeq)
+d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_addsubsf3.o)
+                              ../CORE/MKU_CORE/Src/modbus.o (__aeabi_i2f)
+d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_muldivsf3.o)
+                              ../CORE/MKU_CORE/Src/modbus.o (__aeabi_fdiv)
+d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+                              d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+defaultTaskHandle   0x4               ../CORE/MKU_CORE/Src/main.o
+progTaskHandle      0x4               ../CORE/MKU_CORE/Src/main.o
+ibit                0x40              ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+uwTick              0x4               ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+xQueueRegistry      0x40              ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+tmrs                0x8               ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+pFlash              0x18              ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+dinf                0x4               ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+dout                0x4               ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+tmrms               0x8               ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+rx_buf              0x200             ../CORE/MKU_CORE/Src/rs485.o
+din                 0x4               ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+ireg                0x80              ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+ads1118_data        0x8               ../CORE/MKU_CORE/Src/ads1118.o
+frl                 0x40              ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+frd                 0x80              ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+htim2               0x38              ../CORE/MKU_CORE/Src/stm32l1xx_hal_timebase_TIM.o
+dinr                0x4               ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+frsh                0x20              ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+ain                 0x8               ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .bss           0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x4 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .text          0x00000000       0x74 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .data          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .bss           0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_MspInit
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_MspDeInit
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_DeInit
+                0x00000000       0x24 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_InitTick
+                0x00000000       0x28 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_Delay
+                0x00000000       0x1a ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_SuspendTick
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_ResumeTick
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_GetREVID
+                0x00000000        0xc ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_GetDEVID
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text.HAL_SYSTICK_Config
+                0x00000000       0x2c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text.HAL_MPU_Enable
+                0x00000000       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text.HAL_MPU_Disable
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text.HAL_MPU_ConfigRegion
+                0x00000000       0x50 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x5c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .text.HAL_DMA_Init
+                0x00000000       0x70 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .text.HAL_DMA_DeInit
+                0x00000000       0x4c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .text.HAL_DMA_Start
+                0x00000000       0x5e ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .text.HAL_DMA_Start_IT
+                0x00000000       0x7c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .text.HAL_DMA_Abort
+                0x00000000       0x2c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .text.HAL_DMA_Abort_IT
+                0x00000000       0x48 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .text.HAL_DMA_PollForTransfer
+                0x00000000       0xc6 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .text.HAL_DMA_IRQHandler
+                0x00000000       0x90 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x46 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0x4e ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .text.HAL_DMA_GetState
+                0x00000000        0x6 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .text.HAL_DMA_GetError
+                0x00000000        0x4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .comment       0x00000000       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .ARM.attributes
+                0x00000000       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x3c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+ .text.HAL_FLASH_IRQHandler
+                0x00000000       0xc8 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+ .text.HAL_FLASH_Lock
+                0x00000000       0x14 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x40 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x14 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+ .text.HAL_FLASH_GetError
+                0x00000000        0xc ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+ .text.HAL_FLASH_OB_Launch
+                0x00000000       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000      0x158 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x28 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_DATAEEPROM_Lock
+                0x00000000       0x14 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_DATAEEPROM_EnableFixedTimeProgram
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_DATAEEPROM_DisableFixedTimeProgram
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x5c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.o
+ .RamFunc       0x00000000      0x1f8 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.o
+ .comment       0x00000000       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.o
+ .ARM.attributes
+                0x00000000       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_gpio.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_gpio.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_gpio.o
+ .text.HAL_GPIO_Init
+                0x00000000      0x19c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_gpio.o
+ .text.HAL_GPIO_DeInit
+                0x00000000       0xf4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_gpio.o
+ .text.HAL_GPIO_ReadPin
+                0x00000000        0xc ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_gpio.o
+ .text.HAL_GPIO_WritePin
+                0x00000000        0xa ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_gpio.o
+ .text.HAL_GPIO_TogglePin
+                0x00000000        0x8 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_gpio.o
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2a ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_gpio.o
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_gpio.o
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_gpio.o
+ .comment       0x00000000       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_gpio.o
+ .ARM.attributes
+                0x00000000       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_gpio.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_DeInit
+                0x00000000       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0x6c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_EnablePVD
+                0x00000000       0x1a ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_DisablePVD
+                0x00000000       0x1a ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x30 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x38 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x20 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_PVDCallback
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text.HAL_PWR_PVD_IRQHandler
+                0x00000000       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .comment       0x00000000       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .ARM.attributes
+                0x00000000       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr_ex.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr_ex.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetVoltageRange
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableFastWakeUp
+                0x00000000       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableFastWakeUp
+                0x00000000       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableUltraLowPower
+                0x00000000       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableUltraLowPower
+                0x00000000       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableLowPowerRunMode
+                0x00000000       0x30 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableLowPowerRunMode
+                0x00000000       0x32 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr_ex.o
+ .comment       0x00000000       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr_ex.o
+ .ARM.attributes
+                0x00000000       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr_ex.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .text.RCC_SetFlashLatencyFromMSIRange
+                0x00000000       0x80 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .text.HAL_RCC_DeInit
+                0x00000000       0x70 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .text.HAL_RCC_OscConfig
+                0x00000000      0x6a8 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x50 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .text.HAL_RCC_EnableCSS
+                0x00000000       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .text.HAL_RCC_DisableCSS
+                0x00000000       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .text.HAL_RCC_GetSysClockFreq
+                0x00000000       0x8c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .text.HAL_RCC_ClockConfig
+                0x00000000      0x1bc ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .text.HAL_RCC_GetHCLKFreq
+                0x00000000        0xc ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x30 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0xbc ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x20 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000      0x148 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x24 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000       0x84 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.o
+ .comment       0x00000000       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.o
+ .ARM.attributes
+                0x00000000       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.TIM_OC1_SetConfig
+                0x00000000       0x2c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.TIM_OC2_SetConfig
+                0x00000000       0x30 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.TIM_TI1_SetConfig
+                0x00000000       0x54 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.TIM_CCxChannelCmd
+                0x00000000       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.TIM_SlaveTimer_SetConfig
+                0x00000000       0xaa ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Base_MspDeInit
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Base_DeInit
+                0x00000000       0x2e ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Base_Start
+                0x00000000       0x1a ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Base_Stop
+                0x00000000       0x24 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Base_Stop_IT
+                0x00000000       0x20 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Base_Start_DMA
+                0x00000000       0x58 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Base_Stop_DMA
+                0x00000000       0x26 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OC_MspInit
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OC_Init
+                0x00000000       0x34 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OC_MspDeInit
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OC_DeInit
+                0x00000000       0x2e ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_PWM_MspInit
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_PWM_Init
+                0x00000000       0x34 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_PWM_MspDeInit
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_PWM_DeInit
+                0x00000000       0x2e ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_PWM_Stop
+                0x00000000       0x2a ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_PWM_Start_DMA
+                0x00000000       0xd4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OC_Start_DMA
+                0x00000000        0x4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_IC_MspInit
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_IC_Init
+                0x00000000       0x34 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_IC_MspDeInit
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_IC_DeInit
+                0x00000000       0x2e ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_IC_Start
+                0x00000000       0x1a ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_PWM_Start
+                0x00000000        0x4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OC_Start
+                0x00000000        0x4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_IC_Stop
+                0x00000000       0x24 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OC_Stop
+                0x00000000        0x4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_IC_Start_IT
+                0x00000000       0x58 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_PWM_Start_IT
+                0x00000000        0x4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OC_Start_IT
+                0x00000000        0x4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_IC_Stop_IT
+                0x00000000       0x62 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_PWM_Stop_IT
+                0x00000000        0x4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OC_Stop_IT
+                0x00000000        0x4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_IC_Start_DMA
+                0x00000000       0xd0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_IC_Stop_DMA
+                0x00000000       0x68 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_PWM_Stop_DMA
+                0x00000000        0x4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OC_Stop_DMA
+                0x00000000        0x4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OnePulse_MspInit
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OnePulse_Init
+                0x00000000       0x46 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OnePulse_MspDeInit
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OnePulse_DeInit
+                0x00000000       0x2e ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OnePulse_Start
+                0x00000000       0x26 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OnePulse_Stop
+                0x00000000       0x30 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OnePulse_Start_IT
+                0x00000000       0x36 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OnePulse_Stop_IT
+                0x00000000       0x40 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Encoder_MspInit
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Encoder_Init
+                0x00000000       0x92 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Encoder_MspDeInit
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Encoder_DeInit
+                0x00000000       0x2e ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Encoder_Start
+                0x00000000       0x44 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Encoder_Stop
+                0x00000000       0x3e ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Encoder_Start_IT
+                0x00000000       0x6e ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Encoder_Stop_IT
+                0x00000000       0x6a ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Encoder_Start_DMA
+                0x00000000      0x124 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Encoder_Stop_DMA
+                0x00000000       0x6a ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OC_ConfigChannel
+                0x00000000       0xa8 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_IC_ConfigChannel
+                0x00000000      0x110 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_PWM_ConfigChannel
+                0x00000000      0x110 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OnePulse_ConfigChannel
+                0x00000000       0xec ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_DMABurst_WriteStart
+                0x00000000       0xac ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_DMABurst_ReadStart
+                0x00000000       0xac ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_DMABurst_ReadStop
+                0x00000000       0x56 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_DMABurst_WriteStop
+                0x00000000        0x4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_GenerateEvent
+                0x00000000       0x24 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_ConfigOCrefClear
+                0x00000000       0xe4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_ConfigClockSource
+                0x00000000      0x172 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_ConfigTI1Input
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_SlaveConfigSynchronization
+                0x00000000       0x40 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_SlaveConfigSynchronization_IT
+                0x00000000       0x40 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_ReadCapturedValue
+                0x00000000       0x46 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_PeriodElapsedCallback
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.TIM_DMAPeriodElapsedCplt
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.TIM_DMACaptureCplt
+                0x00000000       0x3c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.TIM_DMADelayPulseCplt
+                0x00000000       0x3c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.TIM_DMATriggerCplt
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_ErrorCallback
+                0x00000000        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.TIM_DMAError
+                0x00000000       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Base_GetState
+                0x00000000        0x6 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OC_GetState
+                0x00000000        0x6 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_PWM_GetState
+                0x00000000        0x6 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_IC_GetState
+                0x00000000        0x6 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_OnePulse_GetState
+                0x00000000        0x6 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Encoder_GetState
+                0x00000000        0x6 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim_ex.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim_ex.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim_ex.o
+ .text.HAL_TIMEx_MasterConfigSynchronization
+                0x00000000       0x44 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim_ex.o
+ .text.HAL_TIMEx_RemapConfig
+                0x00000000       0x20 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim_ex.o
+ .comment       0x00000000       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim_ex.o
+ .ARM.attributes
+                0x00000000       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim_ex.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_dma.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_dma.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_dma.o
+ .text.LL_DMA_DeInit
+                0x00000000       0xf0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_dma.o
+ .text.LL_DMA_Init
+                0x00000000       0x50 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_dma.o
+ .text.LL_DMA_StructInit
+                0x00000000       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_dma.o
+ .rodata.CHANNEL_OFFSET_TAB
+                0x00000000        0x7 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_dma.o
+ .comment       0x00000000       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_dma.o
+ .ARM.attributes
+                0x00000000       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_dma.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_exti.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_exti.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_exti.o
+ .text.LL_EXTI_DeInit
+                0x00000000       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_exti.o
+ .text.LL_EXTI_Init
+                0x00000000       0xb0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_exti.o
+ .text.LL_EXTI_StructInit
+                0x00000000        0xe ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_exti.o
+ .comment       0x00000000       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_exti.o
+ .ARM.attributes
+                0x00000000       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_exti.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_gpio.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_gpio.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_gpio.o
+ .text.LL_GPIO_DeInit
+                0x00000000       0xbc ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_gpio.o
+ .text.LL_GPIO_StructInit
+                0x00000000       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_gpio.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_spi.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_spi.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_spi.o
+ .text.LL_SPI_DeInit
+                0x00000000       0x48 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_spi.o
+ .text.LL_SPI_StructInit
+                0x00000000       0x1a ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_spi.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_rcc.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_rcc.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_rcc.o
+ .text.LL_RCC_DeInit
+                0x00000000       0x6c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_rcc.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_usart.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_usart.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_usart.o
+ .text.LL_USART_DeInit
+                0x00000000       0x64 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_usart.o
+ .text.LL_USART_StructInit
+                0x00000000       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_usart.o
+ .text.LL_USART_ClockInit
+                0x00000000       0x34 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_usart.o
+ .text.LL_USART_ClockStructInit
+                0x00000000        0xc ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_usart.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_utils.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_utils.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_utils.o
+ .text.UTILS_SetFlashLatency.part.0
+                0x00000000       0x64 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_utils.o
+ .text.UTILS_EnablePLLAndSwitchSystem
+                0x00000000       0x98 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_utils.o
+ .text.LL_mDelay
+                0x00000000       0x28 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_utils.o
+ .text.LL_PLL_ConfigSystemClock_HSI
+                0x00000000       0x78 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_utils.o
+ .text.LL_PLL_ConfigSystemClock_HSE
+                0x00000000       0x90 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_utils.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osKernelRunning
+                0x00000000       0x10 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osKernelSysTick
+                0x00000000        0xe ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osThreadGetId
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osThreadTerminate
+                0x00000000        0xa ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osThreadYield
+                0x00000000       0x18 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osThreadSetPriority
+                0x00000000       0x12 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osThreadGetPriority
+                0x00000000       0x20 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osTimerCreate
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osTimerStart
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osTimerStop
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osTimerDelete
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osSignalSet
+                0x00000000       0x54 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osSignalWait
+                0x00000000       0x48 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMutexCreate
+                0x00000000        0x6 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMutexWait
+                0x00000000       0x50 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osSemaphoreCreate
+                0x00000000       0x26 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osSemaphoreWait
+                0x00000000       0x50 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osSemaphoreRelease
+                0x00000000       0x48 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMutexRelease
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osPoolCreate
+                0x00000000       0x6c ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osPoolAlloc
+                0x00000000       0x68 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osPoolCAlloc
+                0x00000000        0xe ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osPoolFree
+                0x00000000       0x2a ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMessageCreate
+                0x00000000        0x8 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMessagePut
+                0x00000000       0x50 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMessageGet
+                0x00000000       0x74 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMailCreate
+                0x00000000       0x56 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMailAlloc
+                0x00000000        0xa ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMailCAlloc
+                0x00000000       0x20 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMailPut
+                0x00000000       0x58 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMailGet
+                0x00000000       0x78 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMailFree
+                0x00000000        0xc ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osSystickHandler
+                0x00000000       0x14 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osThreadSuspend
+                0x00000000        0xa ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osThreadResume
+                0x00000000       0x30 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osThreadSuspendAll
+                0x00000000        0xa ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osThreadResumeAll
+                0x00000000       0x10 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osDelayUntil
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osAbortDelay
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osThreadList
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMessagePeek
+                0x00000000       0x3a ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMessageWaiting
+                0x00000000        0xe ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMessageAvailableSpace
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMessageDelete
+                0x00000000       0x14 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osSemaphoreDelete
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osMutexDelete
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osRecursiveMutexCreate
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osRecursiveMutexRelease
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osRecursiveMutexWait
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text.osSemaphoreGetCount
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/croutine.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/croutine.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/croutine.o
+ .comment       0x00000000       0x7d ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/croutine.o
+ .ARM.attributes
+                0x00000000       0x33 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/croutine.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/event_groups.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/event_groups.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/event_groups.o
+ .text.xEventGroupCreate
+                0x00000000       0x1a ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/event_groups.o
+ .text.xEventGroupWaitBits
+                0x00000000      0x114 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/event_groups.o
+ .text.xEventGroupClearBits
+                0x00000000       0x46 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/event_groups.o
+ .text.xEventGroupGetBitsFromISR
+                0x00000000       0x1c ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/event_groups.o
+ .text.xEventGroupSetBits
+                0x00000000       0x82 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/event_groups.o
+ .text.xEventGroupSync
+                0x00000000       0xd0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/event_groups.o
+ .text.vEventGroupDelete
+                0x00000000       0x40 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/event_groups.o
+ .text.vEventGroupSetBitsCallback
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/event_groups.o
+ .text.vEventGroupClearBitsCallback
+                0x00000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/event_groups.o
+ .comment       0x00000000       0x7d ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/event_groups.o
+ .ARM.attributes
+                0x00000000       0x33 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/event_groups.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/list.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/list.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/list.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+ .text.vPortEndScheduler
+                0x00000000       0x24 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+ .text.vPortValidateInterruptPriority
+                0x00000000       0x5c ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .text.xPortGetFreeHeapSize
+                0x00000000        0xc ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x00000000        0xc ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .text.vPortInitialiseBlocks
+                0x00000000        0x2 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.unlikely.prvCopyDataToQueue
+                0x00000000       0x66 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.unlikely.prvCopyDataFromQueue
+                0x00000000       0x28 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.prvUnlockQueue
+                0x00000000       0x70 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.xQueueGenericReset
+                0x00000000       0x80 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.xQueueGenericCreate
+                0x00000000       0x42 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.xQueueGenericSend
+                0x00000000      0x16c ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.xQueueCreateMutex
+                0x00000000       0x24 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.xQueueGenericSendFromISR
+                0x00000000       0xc4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.xQueueGiveFromISR
+                0x00000000       0xa8 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.xQueueGenericReceive
+                0x00000000      0x188 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000       0xa0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.xQueuePeekFromISR
+                0x00000000       0x78 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x26 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x2a ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x18 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x1e ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x20 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.vQueueAddToRegistry
+                0x00000000       0x24 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.pcQueueGetName
+                0x00000000       0x24 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.vQueueUnregisterQueue
+                0x00000000       0x28 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text.vQueueDelete
+                0x00000000       0x26 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .comment       0x00000000       0x7d ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .ARM.attributes
+                0x00000000       0x33 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ COMMON         0x00000000       0x40 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.vTaskSetTimeOutState.part.5
+                0x00000000       0x12 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.prvTaskIsTaskSuspended
+                0x00000000       0x2c ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.vTaskDelete
+                0x00000000       0xd8 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.uxTaskPriorityGet
+                0x00000000       0x1c ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.uxTaskPriorityGetFromISR
+                0x00000000       0x30 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.vTaskPrioritySet
+                0x00000000       0xd8 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.vTaskResume
+                0x00000000       0x84 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.xTaskResumeFromISR
+                0x00000000       0xa0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x20 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.xTaskGetTickCount
+                0x00000000        0xc ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x10 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000        0xc ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.pcTaskGetName
+                0x00000000       0x24 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.vTaskSuspend
+                0x00000000       0xcc ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.vTaskPlaceOnEventList
+                0x00000000       0x34 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x58 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.xTaskRemoveFromEventList
+                0x00000000       0x84 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.xTaskRemoveFromUnorderedEventList
+                0x00000000       0x8c ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.vTaskSetTimeOutState
+                0x00000000       0x20 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.xTaskCheckForTimeOut
+                0x00000000       0x74 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.vTaskMissedYield
+                0x00000000        0xc ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000        0xc ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.xTaskGetSchedulerState
+                0x00000000       0x20 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.vTaskPriorityInherit
+                0x00000000       0x90 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.xTaskPriorityDisinherit
+                0x00000000       0xa0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x18 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.pvTaskIncrementMutexHeldCount
+                0x00000000       0x18 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.ulTaskNotifyTake
+                0x00000000       0x64 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.xTaskNotifyWait
+                0x00000000       0x88 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.xTaskGenericNotify
+                0x00000000       0xd0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.xTaskGenericNotifyFromISR
+                0x00000000      0x104 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.vTaskNotifyGiveFromISR
+                0x00000000       0xcc ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.xTaskNotifyStateClear
+                0x00000000       0x30 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/timers.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/timers.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/timers.o
+ .comment       0x00000000       0x7d ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/timers.o
+ .ARM.attributes
+                0x00000000       0x33 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/timers.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/crc.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/crc.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/crc.o
+ .text.CheckLRC
+                0x00000000       0x2c ../CORE/MKU_CORE/Src/crc.o
+ .text.getLRC   0x00000000       0x1e ../CORE/MKU_CORE/Src/crc.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/elements.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/elements.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/elements.o
+ .text.open_contact
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.clos_contact
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.plus_bool
+                0x00000000        0x6 ../CORE/MKU_CORE/Src/elements.o
+ .text.plus_short
+                0x00000000        0x6 ../CORE/MKU_CORE/Src/elements.o
+ .text.plus_long
+                0x00000000        0x4 ../CORE/MKU_CORE/Src/elements.o
+ .text.plus_double
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.minus_bool
+                0x00000000        0xc ../CORE/MKU_CORE/Src/elements.o
+ .text.minus_short
+                0x00000000        0x6 ../CORE/MKU_CORE/Src/elements.o
+ .text.minus_long
+                0x00000000        0x4 ../CORE/MKU_CORE/Src/elements.o
+ .text.minus_double
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.relay_short
+                0x00000000        0x6 ../CORE/MKU_CORE/Src/elements.o
+ .text.relay_long
+                0x00000000        0x6 ../CORE/MKU_CORE/Src/elements.o
+ .text.relay_double
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.relay_enabled_bool
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.relay_enabled_short
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.relay_enabled_long
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.relay_enabled_double
+                0x00000000        0xe ../CORE/MKU_CORE/Src/elements.o
+ .text.const_bool
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.const_short
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.const_long
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.const_double
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.variable_short
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.variable_long
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.variable_double
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.sr_trig  0x00000000        0xe ../CORE/MKU_CORE/Src/elements.o
+ .text.rs_trig  0x00000000        0xe ../CORE/MKU_CORE/Src/elements.o
+ .text.delay_on
+                0x00000000       0x24 ../CORE/MKU_CORE/Src/elements.o
+ .text.delay_off
+                0x00000000       0x28 ../CORE/MKU_CORE/Src/elements.o
+ .text.empty    0x00000000        0x4 ../CORE/MKU_CORE/Src/elements.o
+ .text.greater_bool
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.greater_short
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.greater_long
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.greater_double
+                0x00000000       0x14 ../CORE/MKU_CORE/Src/elements.o
+ .text.greater_or_equal_bool
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.greater_or_equal_short
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.greater_or_equal_long
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.greater_or_equal_double
+                0x00000000       0x14 ../CORE/MKU_CORE/Src/elements.o
+ .text.less_bool
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.less_short
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.less_long
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.less_double
+                0x00000000       0x14 ../CORE/MKU_CORE/Src/elements.o
+ .text.less_or_equal_bool
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.less_or_equal_short
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.less_or_equal_long
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.less_or_equal_double
+                0x00000000       0x14 ../CORE/MKU_CORE/Src/elements.o
+ .text.multiple_bool
+                0x00000000        0x6 ../CORE/MKU_CORE/Src/elements.o
+ .text.multiple_short
+                0x00000000        0x6 ../CORE/MKU_CORE/Src/elements.o
+ .text.multiple_long
+                0x00000000        0x4 ../CORE/MKU_CORE/Src/elements.o
+ .text.multiple_double
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.divide_bool
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.divide_short
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.divide_long
+                0x00000000        0xa ../CORE/MKU_CORE/Src/elements.o
+ .text.divide_double
+                0x00000000       0x2c ../CORE/MKU_CORE/Src/elements.o
+ .text.equal_bool
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.equal_short
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.equal_long
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.equal_double
+                0x00000000       0x30 ../CORE/MKU_CORE/Src/elements.o
+ .text.not_equal_bool
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.not_equal_short
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.not_equal_long
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.not_equal_double
+                0x00000000       0x30 ../CORE/MKU_CORE/Src/elements.o
+ .text.not_operation_bool
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.not_operation_short
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.not_operation_long
+                0x00000000        0x8 ../CORE/MKU_CORE/Src/elements.o
+ .text.not_operation_double
+                0x00000000       0x28 ../CORE/MKU_CORE/Src/elements.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/dout.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/dout.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/dout.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/eeprom.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/eeprom.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/eeprom.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/din.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/din.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/din.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/led.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/led.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/led.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/pin_config.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/pin_config.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/pin_config.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/alarm.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/alarm.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/alarm.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/ads1118.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/ads1118.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/ads1118.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/flash_if.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/flash_if.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/flash_if.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/freertos.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/freertos.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/freertos.o
+ .comment       0x00000000       0x7d ../CORE/MKU_CORE/Src/freertos.o
+ .ARM.attributes
+                0x00000000       0x33 ../CORE/MKU_CORE/Src/freertos.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/CompileFiles/lib_elements.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/CompileFiles/lib_elements.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/CompileFiles/lib_elements.o
+ .comment       0x00000000       0x80 ../CORE/MKU_CORE/CompileFiles/lib_elements.o
+ .ARM.attributes
+                0x00000000       0x33 ../CORE/MKU_CORE/CompileFiles/lib_elements.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/main.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/main.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/main.o
+ .text.Error_Handler
+                0x00000000        0x2 ../CORE/MKU_CORE/Src/main.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/modbus.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/modbus.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/modbus.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/rs485.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/rs485.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/rs485.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/stm32l1xx_hal_msp.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/stm32l1xx_hal_msp.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/stm32l1xx_hal_msp.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/stm32l1xx_hal_timebase_TIM.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/stm32l1xx_hal_timebase_TIM.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/stm32l1xx_hal_timebase_TIM.o
+ .text.HAL_SuspendTick
+                0x00000000       0x14 ../CORE/MKU_CORE/Src/stm32l1xx_hal_timebase_TIM.o
+ .text.HAL_ResumeTick
+                0x00000000       0x14 ../CORE/MKU_CORE/Src/stm32l1xx_hal_timebase_TIM.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+ .text          0x00000000        0x0 ../CORE/MKU_CORE/Src/system_stm32l1xx.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/Src/system_stm32l1xx.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/Src/system_stm32l1xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x90 ../CORE/MKU_CORE/Src/system_stm32l1xx.o
+ .text          0x00000000       0x14 ../CORE/MKU_CORE/startup/startup_stm32l151xb.o
+ .data          0x00000000        0x0 ../CORE/MKU_CORE/startup/startup_stm32l151xb.o
+ .bss           0x00000000        0x0 ../CORE/MKU_CORE/startup/startup_stm32l151xb.o
+ .text          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000      0x378 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000000       0xac d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000       0x1d d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000      0x424 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00000000       0x50 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000       0x1d d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_muldivdf3.o)
+ .text          0x00000000      0x110 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x00000000       0xc4 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000000       0x1d d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_muldivsf3.o)
+ .text          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2d d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .data          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .bss           0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .eh_frame      0x00000000        0x4 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .text          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .data          0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .bss           0x00000000        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00004000         xrw
+FLASH            0x08008000         0x00018000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+LOAD d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+LOAD d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_gpio.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr_ex.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim_ex.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_dma.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_exti.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_gpio.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_spi.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_rcc.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_usart.o
+LOAD ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_utils.o
+LOAD ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+LOAD ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/croutine.o
+LOAD ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/event_groups.o
+LOAD ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/list.o
+LOAD ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+LOAD ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+LOAD ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/queue.o
+LOAD ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+LOAD ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/timers.o
+LOAD ../CORE/MKU_CORE/Src/crc.o
+LOAD ../CORE/MKU_CORE/Src/elements.o
+LOAD ../CORE/MKU_CORE/Src/dout.o
+LOAD ../CORE/MKU_CORE/Src/eeprom.o
+LOAD ../CORE/MKU_CORE/Src/din.o
+LOAD ../CORE/MKU_CORE/Src/led.o
+LOAD ../CORE/MKU_CORE/Src/pin_config.o
+LOAD ../CORE/MKU_CORE/Src/alarm.o
+LOAD ../CORE/MKU_CORE/Src/ads1118.o
+LOAD ../CORE/MKU_CORE/Src/flash_if.o
+LOAD ../CORE/MKU_CORE/Src/freertos.o
+LOAD ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+LOAD ../CORE/MKU_CORE/CompileFiles/lib_elements.o
+LOAD ../CORE/MKU_CORE/Src/main.o
+LOAD ../CORE/MKU_CORE/Src/modbus.o
+LOAD ../CORE/MKU_CORE/Src/rs485.o
+LOAD ../CORE/MKU_CORE/Src/stm32l1xx_hal_msp.o
+LOAD ../CORE/MKU_CORE/Src/stm32l1xx_hal_timebase_TIM.o
+LOAD ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+LOAD ../CORE/MKU_CORE/Src/system_stm32l1xx.o
+LOAD ../CORE/MKU_CORE/startup/startup_stm32l151xb.o
+                0x00000080                malloc_getpagesize_P = 0x80
+START GROUP
+LOAD d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+LOAD d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libm.a
+END GROUP
+START GROUP
+LOAD d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+LOAD d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a
+END GROUP
+START GROUP
+LOAD d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+LOAD d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a
+END GROUP
+LOAD d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+LOAD d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+                0x20004000                _estack = 0x20004000
+                0x00001000                _Min_Heap_Size = 0x1000
+                0x00001000                _Min_Stack_Size = 0x1000
+
+.isr_vector     0x08008000      0x13c
+                0x08008000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08008000      0x13c ../CORE/MKU_CORE/startup/startup_stm32l151xb.o
+                0x08008000                g_pfnVectors
+                0x0800813c                . = ALIGN (0x4)
+
+.text           0x08008140     0x3954
+                0x08008140                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08008140       0x40 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .text          0x08008180      0x21c d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_addsubsf3.o)
+                0x08008180                __aeabi_frsub
+                0x08008188                __subsf3
+                0x08008188                __aeabi_fsub
+                0x0800818c                __aeabi_fadd
+                0x0800818c                __addsf3
+                0x080082ec                __aeabi_ui2f
+                0x080082ec                __floatunsisf
+                0x080082f4                __aeabi_i2f
+                0x080082f4                __floatsisf
+                0x08008310                __aeabi_ul2f
+                0x08008310                __floatundisf
+                0x08008320                __aeabi_l2f
+                0x08008320                __floatdisf
+ .text          0x0800839c      0x2a0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_muldivsf3.o)
+                0x0800839c                __mulsf3
+                0x0800839c                __aeabi_fmul
+                0x08008504                __aeabi_fdiv
+                0x08008504                __divsf3
+ *(.text*)
+ .text.HAL_Init
+                0x0800863c       0x16 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+                0x0800863c                HAL_Init
+ *fill*         0x08008652        0x2 
+ .text.HAL_IncTick
+                0x08008654       0x10 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+                0x08008654                HAL_IncTick
+ .text.HAL_GetTick
+                0x08008664        0xc ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+                0x08008664                HAL_GetTick
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x08008670       0x24 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+                0x08008670                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x08008694       0x68 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+                0x08008694                HAL_NVIC_SetPriority
+ .text.HAL_NVIC_EnableIRQ
+                0x080086fc       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+                0x080086fc                HAL_NVIC_EnableIRQ
+ .text.FLASH_SetErrorCode
+                0x08008714       0x50 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+ .text.HAL_FLASH_Unlock
+                0x08008764       0x40 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+                0x08008764                HAL_FLASH_Unlock
+ .text.FLASH_WaitForLastOperation
+                0x080087a4       0x54 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+                0x080087a4                FLASH_WaitForLastOperation
+ .text.HAL_FLASH_Program
+                0x080087f8       0x38 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+                0x080087f8                HAL_FLASH_Program
+ .text.HAL_FLASHEx_DATAEEPROM_Unlock
+                0x08008830       0x24 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+                0x08008830                HAL_FLASHEx_DATAEEPROM_Unlock
+ .text.HAL_FLASHEx_DATAEEPROM_Erase
+                0x08008854       0x3c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+                0x08008854                HAL_FLASHEx_DATAEEPROM_Erase
+ .text.HAL_FLASHEx_DATAEEPROM_Program
+                0x08008890      0x190 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+                0x08008890                HAL_FLASHEx_DATAEEPROM_Program
+ .text.FLASH_PageErase
+                0x08008a20       0x28 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+                0x08008a20                FLASH_PageErase
+ .text.HAL_FLASHEx_Erase
+                0x08008a48       0x80 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+                0x08008a48                HAL_FLASHEx_Erase
+ .text.HAL_RCC_GetPCLK1Freq
+                0x08008ac8       0x30 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+                0x08008ac8                HAL_RCC_GetPCLK1Freq
+ .text.HAL_RCC_GetClockConfig
+                0x08008af8       0x3c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+                0x08008af8                HAL_RCC_GetClockConfig
+ .text.TIM_Base_SetConfig
+                0x08008b34       0x6c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .text.HAL_TIM_Base_MspInit
+                0x08008ba0        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+                0x08008ba0                HAL_TIM_Base_MspInit
+ .text.HAL_TIM_Base_Init
+                0x08008ba2       0x34 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+                0x08008ba2                HAL_TIM_Base_Init
+ .text.HAL_TIM_Base_Start_IT
+                0x08008bd6       0x16 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+                0x08008bd6                HAL_TIM_Base_Start_IT
+ .text.HAL_TIM_OC_DelayElapsedCallback
+                0x08008bec        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+                0x08008bec                HAL_TIM_OC_DelayElapsedCallback
+ .text.HAL_TIM_IC_CaptureCallback
+                0x08008bee        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+                0x08008bee                HAL_TIM_IC_CaptureCallback
+ .text.HAL_TIM_PWM_PulseFinishedCallback
+                0x08008bf0        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+                0x08008bf0                HAL_TIM_PWM_PulseFinishedCallback
+ .text.HAL_TIM_TriggerCallback
+                0x08008bf2        0x2 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+                0x08008bf2                HAL_TIM_TriggerCallback
+ .text.HAL_TIM_IRQHandler
+                0x08008bf4      0x10c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+                0x08008bf4                HAL_TIM_IRQHandler
+ .text.LL_GPIO_Init
+                0x08008d00      0x144 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_gpio.o
+                0x08008d00                LL_GPIO_Init
+ .text.LL_SPI_Init
+                0x08008e44       0x56 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_spi.o
+                0x08008e44                LL_SPI_Init
+ *fill*         0x08008e9a        0x2 
+ .text.RCC_GetHCLKClockFreq
+                0x08008e9c       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_rcc.o
+                0x08008e9c                RCC_GetHCLKClockFreq
+ .text.RCC_GetPCLK1ClockFreq
+                0x08008eb4       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_rcc.o
+                0x08008eb4                RCC_GetPCLK1ClockFreq
+ .text.RCC_GetPCLK2ClockFreq
+                0x08008ecc       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_rcc.o
+                0x08008ecc                RCC_GetPCLK2ClockFreq
+ .text.RCC_PLL_GetFreqDomain_SYS
+                0x08008ee4       0x5c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_rcc.o
+                0x08008ee4                RCC_PLL_GetFreqDomain_SYS
+ .text.RCC_GetSystemClockFreq
+                0x08008f40       0x54 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_rcc.o
+                0x08008f40                RCC_GetSystemClockFreq
+ .text.LL_RCC_GetSystemClocksFreq
+                0x08008f94       0x20 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_rcc.o
+                0x08008f94                LL_RCC_GetSystemClocksFreq
+ .text.LL_USART_Init
+                0x08008fb4       0xe0 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_usart.o
+                0x08008fb4                LL_USART_Init
+ .text.LL_Init1msTick
+                0x08009094       0x1c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_utils.o
+                0x08009094                LL_Init1msTick
+ .text.LL_SetSystemCoreClock
+                0x080090b0        0xc ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_utils.o
+                0x080090b0                LL_SetSystemCoreClock
+ .text.osKernelStart
+                0x080090bc        0xa ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+                0x080090bc                osKernelStart
+ .text.osThreadCreate
+                0x080090c6       0x32 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+                0x080090c6                osThreadCreate
+ .text.osDelay  0x080090f8       0x10 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+                0x080090f8                osDelay
+ .text.vListInitialise
+                0x08009108       0x16 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/list.o
+                0x08009108                vListInitialise
+ .text.vListInitialiseItem
+                0x0800911e        0x6 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/list.o
+                0x0800911e                vListInitialiseItem
+ .text.vListInsertEnd
+                0x08009124       0x18 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/list.o
+                0x08009124                vListInsertEnd
+ .text.vListInsert
+                0x0800913c       0x2e ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/list.o
+                0x0800913c                vListInsert
+ .text.uxListRemove
+                0x0800916a       0x20 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/list.o
+                0x0800916a                uxListRemove
+ *fill*         0x0800918a        0x2 
+ .text.prvTaskExitError
+                0x0800918c       0x30 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+ .text.prvPortStartFirstTask
+                0x080091bc       0x20 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+ .text.pxPortInitialiseStack
+                0x080091dc       0x24 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+                0x080091dc                pxPortInitialiseStack
+ .text.SVC_Handler
+                0x08009200       0x24 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+                0x08009200                SVC_Handler
+ .text.vPortEnterCritical
+                0x08009224       0x44 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+                0x08009224                vPortEnterCritical
+ .text.vPortExitCritical
+                0x08009268       0x28 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+                0x08009268                vPortExitCritical
+ .text.PendSV_Handler
+                0x08009290       0x44 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+                0x08009290                PendSV_Handler
+ .text.SysTick_Handler
+                0x080092d4       0x2c ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+                0x080092d4                SysTick_Handler
+ .text.vPortSetupTimerInterrupt
+                0x08009300       0x28 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+                0x08009300                vPortSetupTimerInterrupt
+ .text.xPortStartScheduler
+                0x08009328       0x94 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+                0x08009328                xPortStartScheduler
+ .text.unlikely.prvInsertBlockIntoFreeList
+                0x080093bc       0x48 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .text.pvPortMalloc
+                0x08009404      0x11c ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+                0x08009404                pvPortMalloc
+ .text.vPortFree
+                0x08009520       0x70 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+                0x08009520                vPortFree
+ .text.prvResetNextTaskUnblockTime
+                0x08009590       0x24 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.prvAddCurrentTaskToDelayedList
+                0x080095b4       0x8c ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.xTaskCreate
+                0x08009640      0x1a0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+                0x08009640                xTaskCreate
+ .text.vTaskStartScheduler
+                0x080097e0       0x78 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+                0x080097e0                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x08009858       0x10 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+                0x08009858                vTaskSuspendAll
+ .text.xTaskIncrementTick
+                0x08009868      0x124 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+                0x08009868                xTaskIncrementTick
+ .text.xTaskResumeAll
+                0x0800998c       0xf0 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+                0x0800998c                xTaskResumeAll
+ .text.vTaskDelay
+                0x08009a7c       0x48 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+                0x08009a7c                vTaskDelay
+ .text.prvIdleTask
+                0x08009ac4       0x74 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .text.vTaskSwitchContext
+                0x08009b38       0x74 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+                0x08009b38                vTaskSwitchContext
+ .text.GetCRC16
+                0x08009bac       0x2c ../CORE/MKU_CORE/Src/crc.o
+                0x08009bac                GetCRC16
+ .text.relay_bool
+                0x08009bd8        0x6 ../CORE/MKU_CORE/Src/elements.o
+                0x08009bd8                relay_bool
+ .text.variable_bool
+                0x08009bde        0x8 ../CORE/MKU_CORE/Src/elements.o
+                0x08009bde                variable_bool
+ *fill*         0x08009be6        0x2 
+ .text.update_dout
+                0x08009be8       0x6c ../CORE/MKU_CORE/Src/dout.o
+                0x08009be8                update_dout
+ .text.read_eeprom
+                0x08009c54       0x1e ../CORE/MKU_CORE/Src/eeprom.o
+                0x08009c54                read_eeprom
+ .text.write_eeprom
+                0x08009c72       0x30 ../CORE/MKU_CORE/Src/eeprom.o
+                0x08009c72                write_eeprom
+ .text.init_din
+                0x08009ca2        0x2 ../CORE/MKU_CORE/Src/din.o
+                0x08009ca2                init_din
+ .text.update_din
+                0x08009ca4      0x128 ../CORE/MKU_CORE/Src/din.o
+                0x08009ca4                update_din
+ .text.update_led
+                0x08009dcc       0x54 ../CORE/MKU_CORE/Src/led.o
+                0x08009dcc                update_led
+ .text.read_usart_config
+                0x08009e20      0x104 ../CORE/MKU_CORE/Src/pin_config.o
+                0x08009e20                read_usart_config
+ .text.get_net_addr
+                0x08009f24       0x1c ../CORE/MKU_CORE/Src/pin_config.o
+                0x08009f24                get_net_addr
+ .text.get_baudrate
+                0x08009f40       0x84 ../CORE/MKU_CORE/Src/pin_config.o
+                0x08009f40                get_baudrate
+ .text.get_stop_bits
+                0x08009fc4       0x28 ../CORE/MKU_CORE/Src/pin_config.o
+                0x08009fc4                get_stop_bits
+ .text.is_parity_used
+                0x08009fec       0x20 ../CORE/MKU_CORE/Src/pin_config.o
+                0x08009fec                is_parity_used
+ .text.is_parity_even
+                0x0800a00c       0x24 ../CORE/MKU_CORE/Src/pin_config.o
+                0x0800a00c                is_parity_even
+ .text.check_alarm
+                0x0800a030       0x58 ../CORE/MKU_CORE/Src/alarm.o
+                0x0800a030                check_alarm
+ .text.sendSPIByte
+                0x0800a088       0x1c ../CORE/MKU_CORE/Src/ads1118.o
+ .text.init_ads1118
+                0x0800a0a4       0x10 ../CORE/MKU_CORE/Src/ads1118.o
+                0x0800a0a4                init_ads1118
+ .text.ads1118_read_one_input
+                0x0800a0b4       0x7c ../CORE/MKU_CORE/Src/ads1118.o
+                0x0800a0b4                ads1118_read_one_input
+ .text.FLASH_If_Init
+                0x0800a130        0x4 ../CORE/MKU_CORE/Src/flash_if.o
+                0x0800a130                FLASH_If_Init
+ .text.FLASH_If_Erase_One_Sector
+                0x0800a134       0x34 ../CORE/MKU_CORE/Src/flash_if.o
+                0x0800a134                FLASH_If_Erase_One_Sector
+ .text.FLASH_If_Write
+                0x0800a168       0x4c ../CORE/MKU_CORE/Src/flash_if.o
+                0x0800a168                FLASH_If_Write
+ .text.inc_timers
+                0x0800a1b4        0x2 ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+                0x0800a1b4                inc_timers
+ *fill*         0x0800a1b6        0x2 
+ .text.ld_process
+                0x0800a1b8       0x38 ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+                0x0800a1b8                ld_process
+ .text.LL_AHB1_GRP1_EnableClock
+                0x0800a1f0       0x1c ../CORE/MKU_CORE/Src/main.o
+ .text.StartDefaultTask
+                0x0800a20c       0xdc ../CORE/MKU_CORE/Src/main.o
+                0x0800a20c                StartDefaultTask
+ .text.StartProgTask
+                0x0800a2e8       0x54 ../CORE/MKU_CORE/Src/main.o
+                0x0800a2e8                StartProgTask
+ .text.NVIC_EncodePriority.constprop.21
+                0x0800a33c       0x30 ../CORE/MKU_CORE/Src/main.o
+ .text.SystemClock_Config
+                0x0800a36c       0xa8 ../CORE/MKU_CORE/Src/main.o
+                0x0800a36c                SystemClock_Config
+ .text.startup.main
+                0x0800a414      0x6f4 ../CORE/MKU_CORE/Src/main.o
+                0x0800a414                main
+ .text.HAL_TIM_PeriodElapsedCallback
+                0x0800ab08        0xe ../CORE/MKU_CORE/Src/main.o
+                0x0800ab08                HAL_TIM_PeriodElapsedCallback
+ *fill*         0x0800ab16        0x2 
+ .text.modbus_error
+                0x0800ab18       0x38 ../CORE/MKU_CORE/Src/modbus.o
+ .text.modbus_process
+                0x0800ab50      0xb2c ../CORE/MKU_CORE/Src/modbus.o
+                0x0800ab50                modbus_process
+ .text.rs485_init
+                0x0800b67c       0xc8 ../CORE/MKU_CORE/Src/rs485.o
+                0x0800b67c                rs485_init
+ .text.send_data
+                0x0800b744       0x48 ../CORE/MKU_CORE/Src/rs485.o
+                0x0800b744                send_data
+ .text.DMA1_Tx_TransmitComplete_Callback
+                0x0800b78c       0x10 ../CORE/MKU_CORE/Src/rs485.o
+                0x0800b78c                DMA1_Tx_TransmitComplete_Callback
+ .text.DMA1_Rx_TransmitComplete_Callback
+                0x0800b79c       0x34 ../CORE/MKU_CORE/Src/rs485.o
+                0x0800b79c                DMA1_Rx_TransmitComplete_Callback
+ .text.USART_TransferError_Callback
+                0x0800b7d0        0x2 ../CORE/MKU_CORE/Src/rs485.o
+                0x0800b7d0                USART_TransferError_Callback
+ *fill*         0x0800b7d2        0x2 
+ .text.USART_CharTransmitComplete_Callback
+                0x0800b7d4       0x30 ../CORE/MKU_CORE/Src/rs485.o
+                0x0800b7d4                USART_CharTransmitComplete_Callback
+ .text.HAL_MspInit
+                0x0800b804       0x50 ../CORE/MKU_CORE/Src/stm32l1xx_hal_msp.o
+                0x0800b804                HAL_MspInit
+ .text.HAL_InitTick
+                0x0800b854       0x74 ../CORE/MKU_CORE/Src/stm32l1xx_hal_timebase_TIM.o
+                0x0800b854                HAL_InitTick
+ .text.NMI_Handler
+                0x0800b8c8        0x2 ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+                0x0800b8c8                NMI_Handler
+ .text.HardFault_Handler
+                0x0800b8ca        0x2 ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+                0x0800b8ca                HardFault_Handler
+ .text.MemManage_Handler
+                0x0800b8cc        0x2 ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+                0x0800b8cc                MemManage_Handler
+ .text.BusFault_Handler
+                0x0800b8ce        0x2 ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+                0x0800b8ce                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0800b8d0        0x2 ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+                0x0800b8d0                UsageFault_Handler
+ .text.DebugMon_Handler
+                0x0800b8d2        0x2 ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+                0x0800b8d2                DebugMon_Handler
+ .text.DMA1_Channel4_IRQHandler
+                0x0800b8d4       0x24 ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+                0x0800b8d4                DMA1_Channel4_IRQHandler
+ .text.DMA1_Channel5_IRQHandler
+                0x0800b8f8       0x24 ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+                0x0800b8f8                DMA1_Channel5_IRQHandler
+ .text.TIM2_IRQHandler
+                0x0800b91c        0xc ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+                0x0800b91c                TIM2_IRQHandler
+ .text.USART1_IRQHandler
+                0x0800b928       0x4c ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+                0x0800b928                USART1_IRQHandler
+ .text.SystemInit
+                0x0800b974       0x4c ../CORE/MKU_CORE/Src/system_stm32l1xx.o
+                0x0800b974                SystemInit
+ .text.Reset_Handler
+                0x0800b9c0       0x48 ../CORE/MKU_CORE/startup/startup_stm32l151xb.o
+                0x0800b9c0                Reset_Handler
+ .text.Default_Handler
+                0x0800ba08        0x2 ../CORE/MKU_CORE/startup/startup_stm32l151xb.o
+                0x0800ba08                RTC_Alarm_IRQHandler
+                0x0800ba08                EXTI2_IRQHandler
+                0x0800ba08                TIM10_IRQHandler
+                0x0800ba08                USB_HP_IRQHandler
+                0x0800ba08                TIM6_IRQHandler
+                0x0800ba08                PVD_IRQHandler
+                0x0800ba08                EXTI3_IRQHandler
+                0x0800ba08                EXTI0_IRQHandler
+                0x0800ba08                I2C2_EV_IRQHandler
+                0x0800ba08                SPI1_IRQHandler
+                0x0800ba08                USB_FS_WKUP_IRQHandler
+                0x0800ba08                ADC1_IRQHandler
+                0x0800ba08                USART3_IRQHandler
+                0x0800ba08                DMA1_Channel7_IRQHandler
+                0x0800ba08                TIM4_IRQHandler
+                0x0800ba08                I2C1_EV_IRQHandler
+                0x0800ba08                DMA1_Channel6_IRQHandler
+                0x0800ba08                TIM3_IRQHandler
+                0x0800ba08                RCC_IRQHandler
+                0x0800ba08                DMA1_Channel1_IRQHandler
+                0x0800ba08                Default_Handler
+                0x0800ba08                EXTI15_10_IRQHandler
+                0x0800ba08                TIM7_IRQHandler
+                0x0800ba08                EXTI9_5_IRQHandler
+                0x0800ba08                TIM9_IRQHandler
+                0x0800ba08                TAMPER_STAMP_IRQHandler
+                0x0800ba08                RTC_WKUP_IRQHandler
+                0x0800ba08                SPI2_IRQHandler
+                0x0800ba08                USB_LP_IRQHandler
+                0x0800ba08                EXTI4_IRQHandler
+                0x0800ba08                DMA1_Channel3_IRQHandler
+                0x0800ba08                COMP_IRQHandler
+                0x0800ba08                WWDG_IRQHandler
+                0x0800ba08                DAC_IRQHandler
+                0x0800ba08                EXTI1_IRQHandler
+                0x0800ba08                TIM11_IRQHandler
+                0x0800ba08                USART2_IRQHandler
+                0x0800ba08                I2C2_ER_IRQHandler
+                0x0800ba08                DMA1_Channel2_IRQHandler
+                0x0800ba08                FLASH_IRQHandler
+                0x0800ba08                I2C1_ER_IRQHandler
+ *fill*         0x0800ba0a        0x2 
+ .text.__libc_init_array
+                0x0800ba0c       0x48 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+                0x0800ba0c                __libc_init_array
+ .text.memcpy   0x0800ba54       0x16 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memcpy-stub.o)
+                0x0800ba54                memcpy
+ .text.memset   0x0800ba6a       0x10 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+                0x0800ba6a                memset
+ *(.glue_7)
+ .glue_7        0x0800ba7a        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0800ba7a        0x0 linker stubs
+ *(.eh_frame)
+ *fill*         0x0800ba7a        0x2 
+ .eh_frame      0x0800ba7c        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ *(.init)
+ .init          0x0800ba7c        0x4 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x0800ba7c                _init
+ .init          0x0800ba80        0x8 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ *(.fini)
+ .fini          0x0800ba88        0x4 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x0800ba88                _fini
+ .fini          0x0800ba8c        0x8 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+                0x0800ba94                . = ALIGN (0x4)
+                0x0800ba94                _etext = .
+
+.vfp11_veneer   0x0800ba94        0x0
+ .vfp11_veneer  0x0800ba94        0x0 linker stubs
+
+.v4_bx          0x0800ba94        0x0
+ .v4_bx         0x0800ba94        0x0 linker stubs
+
+.iplt           0x0800ba94        0x0
+ .iplt          0x0800ba94        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.rodata         0x0800ba94      0x27c
+                0x0800ba94                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x0800ba94       0x28 ../CORE/MKU_CORE/Src/main.o
+ *(.rodata*)
+ .rodata.vTaskStartScheduler.str1.1
+                0x0800babc        0x5 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .rodata.crc16H
+                0x0800bac1      0x100 ../CORE/MKU_CORE/Src/crc.o
+                0x0800bac1                crc16H
+ .rodata.crc16L
+                0x0800bbc1      0x100 ../CORE/MKU_CORE/Src/crc.o
+                0x0800bbc1                crc16L
+ *fill*         0x0800bcc1        0x1 
+ .rodata.configs
+                0x0800bcc2        0xa ../CORE/MKU_CORE/Src/ads1118.o
+ .rodata.main.str1.1
+                0x0800bccc        0xc ../CORE/MKU_CORE/Src/main.o
+ .rodata.str1.1
+                0x0800bcd8       0x15 ../CORE/MKU_CORE/Src/main.o
+ .rodata.AHBPrescTable
+                0x0800bced       0x10 ../CORE/MKU_CORE/Src/system_stm32l1xx.o
+                0x0800bced                AHBPrescTable
+ .rodata.APBPrescTable
+                0x0800bcfd        0x8 ../CORE/MKU_CORE/Src/system_stm32l1xx.o
+                0x0800bcfd                APBPrescTable
+ .rodata.PLLMulTable
+                0x0800bd05        0x9 ../CORE/MKU_CORE/Src/system_stm32l1xx.o
+                0x0800bd05                PLLMulTable
+                0x0800bd10                . = ALIGN (0x4)
+ *fill*         0x0800bd0e        0x2 
+
+.rel.dyn        0x0800bd10        0x0
+ .rel.iplt      0x0800bd10        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0800bd10        0x0
+                0x0800bd10                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0800bd10                __exidx_end = .
+
+.preinit_array  0x0800bd10        0x0
+                0x0800bd10                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0800bd10                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0800bd10        0x4
+                0x0800bd10                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0800bd10        0x4 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x0800bd14                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0800bd14        0x4
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0800bd14        0x4 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x0800bd18                _sidata = LOADADDR (.data)
+
+.data           0x20000000       0x20 load address 0x0800bd18
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.uxCriticalNesting
+                0x20000000        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+ .data.baudrate.6810
+                0x20000004        0x4 ../CORE/MKU_CORE/Src/pin_config.o
+ .data.p1_v1    0x20000008        0x2 ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+                0x20000008                p1_v1
+ .data.plc_cycle
+                0x2000000a        0x2 ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+                0x2000000a                plc_cycle
+ .data.break_level
+                0x2000000c        0x2 ../CORE/MKU_CORE/Src/main.o
+                0x2000000c                break_level
+ .data.eeprom_was_init_key
+                0x2000000e        0x2 ../CORE/MKU_CORE/Src/main.o
+                0x2000000e                eeprom_was_init_key
+ .data.input_on_level
+                0x20000010        0x2 ../CORE/MKU_CORE/Src/main.o
+                0x20000010                input_on_level
+ .data.serial_number
+                0x20000012        0x2 ../CORE/MKU_CORE/Src/main.o
+                0x20000012                serial_number
+ .data.short_circuit_level
+                0x20000014        0x2 ../CORE/MKU_CORE/Src/main.o
+                0x20000014                short_circuit_level
+ .data.work_time
+                0x20000016        0x2 ../CORE/MKU_CORE/Src/main.o
+                0x20000016                work_time
+ .data.net_address
+                0x20000018        0x1 ../CORE/MKU_CORE/Src/modbus.o
+                0x20000018                net_address
+ *fill*         0x20000019        0x3 
+ .data.SystemCoreClock
+                0x2000001c        0x4 ../CORE/MKU_CORE/Src/system_stm32l1xx.o
+                0x2000001c                SystemCoreClock
+                0x20000020                . = ALIGN (0x4)
+                0x20000020                _edata = .
+
+.igot.plt       0x20000020        0x0 load address 0x0800bd38
+ .igot.plt      0x20000020        0x0 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x20000020                . = ALIGN (0x4)
+
+.bss            0x20000020     0x15cc load address 0x0800bd38
+                0x20000020                _sbss = .
+                0x20000020                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000020       0x1c d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ *(.bss*)
+ .bss.ucMaxSysCallPriority
+                0x2000003c        0x1 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+ *fill*         0x2000003d        0x3 
+ .bss.ulMaxPRIGROUPValue
+                0x20000040        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+ .bss.pxEnd     0x20000044        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .bss.ucHeap    0x20000048      0xc00 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .bss.xBlockAllocatedBit
+                0x20000c48        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .bss.xFreeBytesRemaining
+                0x20000c4c        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .bss.xMinimumEverFreeBytesRemaining
+                0x20000c50        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .bss.xStart    0x20000c54        0x8 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .bss.pxCurrentTCB
+                0x20000c5c        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+                0x20000c5c                pxCurrentTCB
+ .bss.pxDelayedTaskList
+                0x20000c60        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x20000c64        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.pxReadyTasksLists
+                0x20000c68       0x8c ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x20000cf4        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x20000cf8        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.uxPendedTicks
+                0x20000cfc        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.uxSchedulerSuspended
+                0x20000d00        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.uxTaskNumber
+                0x20000d04        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.uxTopReadyPriority
+                0x20000d08        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.xDelayedTaskList1
+                0x20000d0c       0x14 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.xDelayedTaskList2
+                0x20000d20       0x14 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.xIdleTaskHandle
+                0x20000d34        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.xNextTaskUnblockTime
+                0x20000d38        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.xNumOfOverflows
+                0x20000d3c        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.xPendingReadyList
+                0x20000d40       0x14 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.xSchedulerRunning
+                0x20000d54        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.xSuspendedTaskList
+                0x20000d58       0x14 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.xTasksWaitingTermination
+                0x20000d6c       0x14 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.xTickCount
+                0x20000d80        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.xYieldPending
+                0x20000d84        0x4 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .bss.do_reg    0x20000d88        0x2 ../CORE/MKU_CORE/Src/dout.o
+                0x20000d88                do_reg
+ .bss.di_reg    0x20000d8a        0x2 ../CORE/MKU_CORE/Src/din.o
+                0x20000d8a                di_reg
+ .bss.din_break
+                0x20000d8c        0x4 ../CORE/MKU_CORE/Src/din.o
+                0x20000d8c                din_break
+ .bss.din_fault
+                0x20000d90        0x4 ../CORE/MKU_CORE/Src/din.o
+                0x20000d90                din_fault
+ .bss.din_short_circuit
+                0x20000d94        0x4 ../CORE/MKU_CORE/Src/din.o
+                0x20000d94                din_short_circuit
+ .bss.din_state
+                0x20000d98        0x4 ../CORE/MKU_CORE/Src/din.o
+                0x20000d98                din_state
+ .bss.net_address
+                0x20000d9c        0x1 ../CORE/MKU_CORE/Src/pin_config.o
+ .bss.usart_config
+                0x20000d9d        0x1 ../CORE/MKU_CORE/Src/pin_config.o
+ .bss.alarm     0x20000d9e        0x1 ../CORE/MKU_CORE/Src/alarm.o
+                0x20000d9e                alarm
+ .bss.tmp       0x20000d9f        0x1 ../CORE/MKU_CORE/Src/alarm.o
+ .bss.tmp_alarm
+                0x20000da0        0x1 ../CORE/MKU_CORE/Src/alarm.o
+ .bss.num.7033  0x20000da1        0x1 ../CORE/MKU_CORE/Src/ads1118.o
+ .bss.p1_v10    0x20000da2        0x1 ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+                0x20000da2                p1_v10
+ .bss.p1_v11    0x20000da3        0x1 ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+                0x20000da3                p1_v11
+ .bss.adc_tmr.9506
+                0x20000da4        0x1 ../CORE/MKU_CORE/Src/main.o
+ *fill*         0x20000da5        0x1 
+ .bss.delay_tmr
+                0x20000da6        0x2 ../CORE/MKU_CORE/Src/main.o
+                0x20000da6                delay_tmr
+ .bss.out_default_state
+                0x20000da8        0x2 ../CORE/MKU_CORE/Src/main.o
+                0x20000da8                out_default_state
+ .bss.sys_tmr   0x20000daa        0x2 ../CORE/MKU_CORE/Src/main.o
+                0x20000daa                sys_tmr
+ .bss.tmp.9507  0x20000dac        0x2 ../CORE/MKU_CORE/Src/main.o
+ .bss.work_tmr.9521
+                0x20000dae        0x2 ../CORE/MKU_CORE/Src/main.o
+ .bss.byte_count
+                0x20000db0        0x2 ../CORE/MKU_CORE/Src/modbus.o
+ .bss.cnt       0x20000db2        0x2 ../CORE/MKU_CORE/Src/modbus.o
+ .bss.fl_buf.7058
+                0x20000db4      0x200 ../CORE/MKU_CORE/Src/modbus.o
+ .bss.jump_flag
+                0x20000fb4        0x1 ../CORE/MKU_CORE/Src/modbus.o
+                0x20000fb4                jump_flag
+ *fill*         0x20000fb5        0x1 
+ .bss.mem_addr  0x20000fb6        0x2 ../CORE/MKU_CORE/Src/modbus.o
+ .bss.tx_buf    0x20000fb8      0x200 ../CORE/MKU_CORE/Src/modbus.o
+ .bss.ready_rx_cnt
+                0x200011b8        0x2 ../CORE/MKU_CORE/Src/rs485.o
+                0x200011b8                ready_rx_cnt
+ .bss.rx_cnt    0x200011ba        0x2 ../CORE/MKU_CORE/Src/rs485.o
+ *(COMMON)
+ COMMON         0x200011bc        0x4 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+                0x200011bc                uwTick
+ COMMON         0x200011c0       0x18 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+                0x200011c0                pFlash
+ COMMON         0x200011d8        0x8 ../CORE/MKU_CORE/Src/ads1118.o
+                0x200011d8                ads1118_data
+ COMMON         0x200011e0      0x1cc ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+                0x200011e0                ibit
+                0x20001220                tmrs
+                0x20001228                dinf
+                0x2000122c                dout
+                0x20001230                tmrms
+                0x20001238                din
+                0x2000123c                ireg
+                0x200012bc                frl
+                0x20001300                frd
+                0x20001380                dinr
+                0x20001384                frsh
+                0x200013a4                ain
+ COMMON         0x200013ac        0x8 ../CORE/MKU_CORE/Src/main.o
+                0x200013ac                defaultTaskHandle
+                0x200013b0                progTaskHandle
+ COMMON         0x200013b4      0x200 ../CORE/MKU_CORE/Src/rs485.o
+                0x200013b4                rx_buf
+ COMMON         0x200015b4       0x38 ../CORE/MKU_CORE/Src/stm32l1xx_hal_timebase_TIM.o
+                0x200015b4                htim2
+                0x200015ec                . = ALIGN (0x4)
+                0x200015ec                _ebss = .
+                0x200015ec                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200015ec     0x2000 load address 0x0800bd38
+                0x200015ec                . = ALIGN (0x4)
+                [!provide]                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x200025ec                . = (. + _Min_Heap_Size)
+ *fill*         0x200015ec     0x1000 
+                0x200035ec                . = (. + _Min_Stack_Size)
+ *fill*         0x200025ec     0x1000 
+                0x200035ec                . = ALIGN (0x4)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+ .ARM.attributes
+                0x0000007d       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .ARM.attributes
+                0x000000b0       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+ .ARM.attributes
+                0x000000e3       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+ .ARM.attributes
+                0x00000116       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .ARM.attributes
+                0x00000149       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .ARM.attributes
+                0x0000017c       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_gpio.o
+ .ARM.attributes
+                0x000001af       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_spi.o
+ .ARM.attributes
+                0x000001e2       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_rcc.o
+ .ARM.attributes
+                0x00000215       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_usart.o
+ .ARM.attributes
+                0x00000248       0x33 ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_utils.o
+ .ARM.attributes
+                0x0000027b       0x33 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .ARM.attributes
+                0x000002ae       0x33 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/list.o
+ .ARM.attributes
+                0x000002e1       0x33 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+ .ARM.attributes
+                0x00000314       0x33 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .ARM.attributes
+                0x00000347       0x33 ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .ARM.attributes
+                0x0000037a       0x33 ../CORE/MKU_CORE/Src/crc.o
+ .ARM.attributes
+                0x000003ad       0x33 ../CORE/MKU_CORE/Src/elements.o
+ .ARM.attributes
+                0x000003e0       0x33 ../CORE/MKU_CORE/Src/dout.o
+ .ARM.attributes
+                0x00000413       0x33 ../CORE/MKU_CORE/Src/eeprom.o
+ .ARM.attributes
+                0x00000446       0x33 ../CORE/MKU_CORE/Src/din.o
+ .ARM.attributes
+                0x00000479       0x33 ../CORE/MKU_CORE/Src/led.o
+ .ARM.attributes
+                0x000004ac       0x33 ../CORE/MKU_CORE/Src/pin_config.o
+ .ARM.attributes
+                0x000004df       0x33 ../CORE/MKU_CORE/Src/alarm.o
+ .ARM.attributes
+                0x00000512       0x33 ../CORE/MKU_CORE/Src/ads1118.o
+ .ARM.attributes
+                0x00000545       0x33 ../CORE/MKU_CORE/Src/flash_if.o
+ .ARM.attributes
+                0x00000578       0x33 ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+ .ARM.attributes
+                0x000005ab       0x33 ../CORE/MKU_CORE/Src/main.o
+ .ARM.attributes
+                0x000005de       0x33 ../CORE/MKU_CORE/Src/modbus.o
+ .ARM.attributes
+                0x00000611       0x33 ../CORE/MKU_CORE/Src/rs485.o
+ .ARM.attributes
+                0x00000644       0x33 ../CORE/MKU_CORE/Src/stm32l1xx_hal_msp.o
+ .ARM.attributes
+                0x00000677       0x33 ../CORE/MKU_CORE/Src/stm32l1xx_hal_timebase_TIM.o
+ .ARM.attributes
+                0x000006aa       0x33 ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+ .ARM.attributes
+                0x000006dd       0x33 ../CORE/MKU_CORE/Src/system_stm32l1xx.o
+ .ARM.attributes
+                0x00000710       0x21 ../CORE/MKU_CORE/startup/startup_stm32l151xb.o
+ .ARM.attributes
+                0x00000731       0x2d d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000075e       0x2d d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000078b       0x2d d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000007b8       0x1d d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x000007d5       0x1d d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x000007f2       0x1d d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+OUTPUT(../CORE/MKU_CORE/prog.elf elf32-littlearm)
+
+.comment        0x00000000       0xfb
+ .comment       0x00000000       0x7c ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.o
+                                 0x7d (size before relaxing)
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_tim.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_gpio.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_spi.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_rcc.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_usart.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_ll_utils.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/list.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3/port.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Middlewares/Third_Party/FreeRTOS/Source/tasks.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Src/crc.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Src/elements.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Src/dout.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Src/eeprom.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Src/din.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Src/led.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Src/pin_config.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Src/alarm.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Src/ads1118.o
+ .comment       0x0000007c       0x7d ../CORE/MKU_CORE/Src/flash_if.o
+ .comment       0x0000007c       0x7f ../CORE/MKU_CORE/CompileFiles/ld_prog.o
+                                 0x80 (size before relaxing)
+ .comment       0x000000fb       0x7d ../CORE/MKU_CORE/Src/main.o
+ .comment       0x000000fb       0x7d ../CORE/MKU_CORE/Src/modbus.o
+ .comment       0x000000fb       0x7d ../CORE/MKU_CORE/Src/rs485.o
+ .comment       0x000000fb       0x7d ../CORE/MKU_CORE/Src/stm32l1xx_hal_msp.o
+ .comment       0x000000fb       0x7d ../CORE/MKU_CORE/Src/stm32l1xx_hal_timebase_TIM.o
+ .comment       0x000000fb       0x7d ../CORE/MKU_CORE/Src/stm32l1xx_it.o
+ .comment       0x000000fb       0x7d ../CORE/MKU_CORE/Src/system_stm32l1xx.o
+
+.debug_frame    0x00000000       0xf8
+ .debug_frame   0x00000000       0x2c d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000002c       0x28 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000054       0x20 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000074       0x4c d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x000000c0       0x38 d:/mts/plc/ld_editor/build-editor-desktop_qt_5_13_0_msvc2017_64bit-release/release/arm-gcc/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a(_arm_muldivsf3.o)

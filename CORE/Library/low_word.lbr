@@ -1,0 +1,11 @@
+{
+	"version":1,
+	"Folder":"Битовые операции",
+	"Name":"младшее слово",
+	"Short name": "мл слово",
+	"Input vars":[{"type":"long","name":"a"}],
+	"Result":"short",
+	"Prototype":"short low_word(long a);",
+	"Function name":"low_word",
+	"Body":["short low_word(long a){return a&0xFFFF;}"]
+}

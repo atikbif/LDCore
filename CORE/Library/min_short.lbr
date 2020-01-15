@@ -1,0 +1,11 @@
+{
+	"version": 1,
+	"Folder": "Арифметика",
+	"Name": "минимум (short)",
+	"Short name": "min(s)",
+	"Input vars": [{"type": "short","name": "a"},{"type": "short","name": "b"}],
+	"Result": "short",
+	"Prototype": "short min_short(short a, short b);",
+	"Function name": "min_short",
+	"Body": ["short min_short(short a, short b){if(a>=b) return b;return a;}"]
+}

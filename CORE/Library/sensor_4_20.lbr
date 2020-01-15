@@ -1,0 +1,11 @@
+{
+	"version": 1,
+	"Folder": "Конвертация",
+	"Name": "датчик 4-20 мА",
+	"Short name": "4-20mA",
+	"Input vars": [{"type": "double","name": "4"},{"type": "double","name": "20"},{"type": "double","name": "inp"}],
+	"Result": "double",
+	"Prototype": "double sens_4_20(double l4, double l20, double inp);",
+	"Function name": "sens_4_20",
+	"Body": ["double sens_4_20(double l4, double l20, double inp){return (l20-l4)*inp/16000 + (5*l4-l20)/4;}"]
+}

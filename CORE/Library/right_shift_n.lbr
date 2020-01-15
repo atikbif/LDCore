@@ -1,0 +1,11 @@
+{
+	"version":1,
+	"Folder":"Битовые операции",
+	"Name":"сдвиг на n бит вправо",
+	"Short name": "n бит вправо",
+	"Input vars":[{"type":"long","name":"inp"},{"type":"short","name":"n"}],
+	"Result":"long",
+	"Prototype":"long right_shift_n(long inp,short n);",
+	"Function name":"right_shift_n",
+	"Body":["long right_shift_n(long inp,short n){if(n<0) n=0;if(n>31) n=31;return inp>>n;}"]
+}

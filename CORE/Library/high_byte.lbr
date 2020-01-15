@@ -1,0 +1,11 @@
+{
+	"version":1,
+	"Folder":"Битовые операции",
+	"Name":"старший байт",
+	"Short name": "ст байт",
+	"Input vars":[{"type":"short","name":"a"}],
+	"Result":"short",
+	"Prototype":"short high_byte(short a);",
+	"Function name":"high_byte",
+	"Body":["short high_byte(short a){return a>>8;}"]
+}

@@ -1,0 +1,11 @@
+{
+	"version": 1,
+	"Folder": "Конвертация",
+	"Name": "датчик 0-20 мА",
+	"Short name": "0-20mA",
+	"Input vars": [{"type": "double","name": "0"},{"type": "double","name": "20"},{"type": "double","name": "inp"}],
+	"Result": "double",
+	"Prototype": "double sens_0_20(double l0, double l20, double inp);",
+	"Function name": "sens_0_20",
+	"Body": ["double sens_0_20(double l0, double l20, double inp){return (l20-l0)*inp/20000 + l0;}"]
+}

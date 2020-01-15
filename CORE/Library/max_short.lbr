@@ -1,0 +1,11 @@
+{
+	"version": 1,
+	"Folder": "Арифметика",
+	"Name": "максимум (short)",
+	"Short name": "max(s)",
+	"Input vars": [{"type": "short","name": "a"},{"type": "short","name": "b"}],
+	"Result": "short",
+	"Prototype": "short max_short(short a, short b);",
+	"Function name": "max_short",
+	"Body": ["short max_short(short a, short b){if(a>=b) return a;return b;}"]
+}

@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"Folder": "Арифметика",
+	"Name": "квадратный корень",
+	"Short name": "sqrt",
+	"Input vars": [{
+		"type": "double",
+		"name": "a"
+	}],
+	"Result": "double",
+	"Prototype": "double ld_sqrt(double inp);",
+	"Function name": "ld_sqrt",
+	"Body": ["double ld_sqrt(double inp){return sqrt(inp);}"]
+}

@@ -1,0 +1,11 @@
+{
+	"version":1,
+	"Folder":"Битовые операции",
+	"Name":"включить бит n (short)",
+	"Short name": "вкл бит(s)",
+	"Input vars":[{"type":"short","name":"inp"},{"type":"short","name":"n"}],
+	"Result":"short",
+	"Prototype":"short set_bit_short(short inp,short n);",
+	"Function name":"set_bit_short",
+	"Body":["short set_bit_short(short inp,short n){if(n<0) n=0;if(n>15) n=15;return inp|(1<<n);}"]
+}

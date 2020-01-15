@@ -1,0 +1,11 @@
+{
+	"version":1,
+	"Folder":"Арифметика",
+	"Name":"сумма 4-х short",
+	"Short name":"сумма",
+	"Input vars":[{"type":"short","name":"a"},{"type":"short","name":"b"},{"type":"short","name":"c"},{"type":"short","name":"d"}],
+	"Result":"short",
+	"Prototype":"short sum_four_int(short inp1, short inp2, short inp3, short inp4);",
+	"Function name": "sum_four_int",
+	"Body":["short sum_four_int(short inp1, short inp2, short inp3, short inp4){return inp1+inp2+inp3+inp4;}"]
+}

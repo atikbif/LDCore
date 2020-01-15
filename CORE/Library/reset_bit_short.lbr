@@ -1,0 +1,11 @@
+{
+	"version":1,
+	"Folder":"Битовые операции",
+	"Name":"сбросить бит n (short)",
+	"Short name": "сбр бит(s)",
+	"Input vars":[{"type":"short","name":"inp"},{"type":"short","name":"n"}],
+	"Result":"short",
+	"Prototype":"short reset_bit_short(short inp,short n);",
+	"Function name":"reset_bit_short",
+	"Body":["short reset_bit_short(short inp,short n){if(n<0) n=0;if(n>15) n=15;return inp&(~(unsigned short)(1<<n));}"]
+}

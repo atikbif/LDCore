@@ -1,0 +1,11 @@
+{
+	"version":1,
+	"Folder":"Битовые операции",
+	"Name":"включить бит n (long)",
+	"Short name": "вкл бит(l)",
+	"Input vars":[{"type":"long","name":"inp"},{"type":"short","name":"n"}],
+	"Result":"long",
+	"Prototype":"long set_bit_long(long inp,short n);",
+	"Function name":"set_bit_long",
+	"Body":["long set_bit_long(long inp,short n){if(n<0) n=0;if(n>31) n=31;return inp|(1<<n);}"]
+}

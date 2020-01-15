@@ -1,0 +1,35 @@
+{
+    "plc":["MKU","PC21-1 2019"],
+	"MKU": {
+		"CODE":3,
+		"OS_PARAMS":"MKU_CORE",
+        "AI_CNT":4,
+        "DI_CNT":4,
+        "DO_CNT":4
+	},
+	"PC21-1 2019": {
+		"CODE":4,
+		"OS_PARAMS":"PLC1_CORE",
+        "AI_CNT":14,
+        "DI_CNT":14,
+        "DO_CNT":6
+	},
+	"MKU_CORE": {
+		"IBIT_CNT": 64,
+        "TMRMS_CNT": 4,
+        "TMRS_CNT": 4,
+        "IREG_CNT": 64,
+        "FRL_CNT": 16,
+        "FRD_CNT": 16,
+        "FRSH_CNT": 16
+	},
+	"PLC1_CORE": {
+		"IBIT_CNT": 64,
+        "TMRMS_CNT": 4,
+        "TMRS_CNT": 4,
+        "IREG_CNT": 64,
+        "FRL_CNT": 16,
+        "FRD_CNT": 16,
+        "FRSH_CNT": 16
+	}
+}

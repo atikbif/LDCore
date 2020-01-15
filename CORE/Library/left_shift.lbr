@@ -1,0 +1,11 @@
+{
+	"version":1,
+	"Folder":"Битовые операции",
+	"Name":"сдвиг на 1 бит влево",
+	"Short name": "1 бит влево",
+	"Input vars":[{"type":"long","name":"a"}],
+	"Result":"long",
+	"Prototype":"long left_shift(long inp);",
+	"Function name":"left_shift",
+	"Body":["long left_shift(long inp){return inp<<1;}"]
+}

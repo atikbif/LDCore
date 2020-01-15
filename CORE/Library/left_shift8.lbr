@@ -1,0 +1,11 @@
+{
+	"version":1,
+	"Folder":"Битовые операции",
+	"Name":"сдвиг на 8 бит влево",
+	"Short name": "8 бит влево",
+	"Input vars":[{"type":"long","name":"a"}],
+	"Result":"long",
+	"Prototype":"long left_shift8(long inp);",
+	"Function name":"left_shift8",
+	"Body":["long left_shift8(long inp){return inp<<8;}"]
+}
